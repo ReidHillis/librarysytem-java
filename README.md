@@ -10,3 +10,5 @@ Features:
   * Borrow and return books
   * Track availability of books
   * Data is stored in a file (library)
+
+*Completed: April 2025*
